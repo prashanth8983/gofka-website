@@ -1,0 +1,11 @@
+export { default as AnimatedBackground } from './AnimatedBackground';
+export { default as FadeIn } from './FadeIn';
+export { default as GofkaLogo } from './GofkaLogo';
+export { default as Header } from './Header';
+export { default as Hero } from './Hero';
+export { default as Features } from './Features';
+export { default as UseCases } from './UseCases';
+export { default as PipelineComparison } from './PipelineComparison';
+export { default as Quickstart } from './Quickstart';
+export { default as Community } from './Community';
+export { default as Footer } from './Footer';
